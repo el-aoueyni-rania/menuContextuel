@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">menuContextuel</string>
+    <string name="menu_search">search</string>
+    <string name="menu_ch1">ch1</string>
+</resources>
